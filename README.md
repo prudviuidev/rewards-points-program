@@ -29,4 +29,3 @@ Given a record of every transaction during a three month period, calculate the r
 
     The page will reload if you make edits.
     
-# rewards-points-program
